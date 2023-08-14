@@ -1,0 +1,75 @@
+{
+  "name": "Push-Kontak",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot Push Kontak Using Lib Baileys Multi Device",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "termux",
+    "whatsapp-openai",
+    "whatsapp-openai",
+    "whatsapp-bot",
+    "whatsapp-baileys",
+    "baileys-md",
+    "bot-wa",
+    "bot-md",
+    "whatsapp-multi-device"
+  ],
+  "base": "https://github.com/resahdevv/Push-Kontak",
+  "author": "RezaDevv",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "@hapi/boom": "^10.0.0",
+    "@ruhend/baileys": "^6.0.0",
+    "@ruhend/tiktok": "^2.0.0",
+    "@whiskeysockets/baileys": "^6.4.0",
+    "@xct007/frieren-scraper": "^0.0.2",
+    "awesome-phonenumber": "^2.64.0",
+    "axios": "^1.4.0",
+    "chalk": "^4.1.2",
+    "cheerio": "^1.0.0-rc.12",
+    "crypto": "^1.0.1",
+    "express": "^4.18.2",
+    "ffmpeg-static": "^5.1.0",
+    "figlet": "^1.5.2",
+    "file-type": "^16.5.3",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs": "0.0.1-security",
+    "human-readable": "^0.2.1",
+    "instagram-url-dl": "^5.1.3",
+    "jimp": "^0.16.13",
+    "lodash": "^4.17.21",
+    "moment-timezone": "^0.5.43",
+    "node-cron": "^3.0.2",
+    "node-fetch": "^2.6.12",
+    "node-webpmux": "^3.1.7",
+    "os": "^0.1.2",
+    "pino": "^7.0.5",
+    "qrcode": "^1.5.3",
+    "qrcode-terminal": "^0.12.0",
+    "socket.io": "^4.7.1",
+    "string-similarity": "^4.0.4",
+    "tiktod": "^1.0.0",
+    "util": "^0.12.4",
+    "wa-sticker-formatter": "^4.4.4",
+    "yt-search": "^2.10.4",
+    "ytdl-core": "^4.11.5"
+  },
+  "directories": {
+    "lib": "lib",
+    "src": "src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/resahdevv/Push-Kontak.git"
+  },
+  "bugs": {
+    "url": "https://github.com/resahdevv/Push-Kontak/issues"
+  },
+  "homepage": "https://github.com/resahdevv/Push-Kontak#readme"
+}

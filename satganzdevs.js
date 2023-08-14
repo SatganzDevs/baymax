@@ -238,7 +238,7 @@ module.exports = satria = async (satria, m, chatUpdate, store) => {
               status: "INQUIRY",
               surface: "CATALOG",
               message: teks,
-              orderTitle: "Powered By ❤️ SatganzDevs",
+              orderTitle: "SatganzDevs 2023 | All Rights Reservered",
               thumbnail: thumb,
               token: "AR6ew8v8oH4gt78Ufm/sMBCeaQJwJlDhOTto8qAZytAdQA==",
             },
